@@ -1,0 +1,5 @@
+CREATE TABLE person (
+ name varchar(255),
+ lastname varchar(255),
+ age int
+);
